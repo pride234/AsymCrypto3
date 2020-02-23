@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsymCrypto3", "AsymCrypto3\AsymCrypto3.csproj", "{8E0DEB08-333C-4D89-ACFB-A923B032E064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0DEB08-333C-4D89-ACFB-A923B032E064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0DEB08-333C-4D89-ACFB-A923B032E064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0DEB08-333C-4D89-ACFB-A923B032E064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0DEB08-333C-4D89-ACFB-A923B032E064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D38AE65-82A1-4A9E-A009-2C16F925616D}
+	EndGlobalSection
+EndGlobal

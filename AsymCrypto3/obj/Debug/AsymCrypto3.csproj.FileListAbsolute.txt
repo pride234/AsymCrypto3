@@ -1,0 +1,6 @@
+C:\Users\PRIDE\source\repos\AsymCrypto3\AsymCrypto3\obj\Debug\AsymCrypto3.csprojAssemblyReference.cache
+C:\Users\PRIDE\source\repos\AsymCrypto3\AsymCrypto3\bin\Debug\AsymCrypto3.exe.config
+C:\Users\PRIDE\source\repos\AsymCrypto3\AsymCrypto3\bin\Debug\AsymCrypto3.exe
+C:\Users\PRIDE\source\repos\AsymCrypto3\AsymCrypto3\bin\Debug\AsymCrypto3.pdb
+C:\Users\PRIDE\source\repos\AsymCrypto3\AsymCrypto3\obj\Debug\AsymCrypto3.exe
+C:\Users\PRIDE\source\repos\AsymCrypto3\AsymCrypto3\obj\Debug\AsymCrypto3.pdb
